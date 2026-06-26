@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/gtanishka100/DSA/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gtanishka100/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gtanishka100/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gtanishka100/DSA/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gtanishka100/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gtanishka100/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
